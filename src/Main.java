@@ -22,7 +22,7 @@ public class Main {
     }
     public static void Main_Options() {
         // print out options
-        System.out.println("Test");
+        System.out.println("Test0903");
         System.out.println("*** Main Menu ***");
         System.out.println("1. Manage Cakes");
         System.out.println("2. Manage Customers");
